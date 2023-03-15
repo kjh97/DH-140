@@ -14,3 +14,5 @@ The question then arises -- how can I approach a topic so abstract and nuanced, 
 How do economic factors affect happiness?
 How does one's social environment affect happiness?
 How has global happiness been affected by the COVID-19 pandemic?
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kjh97/DH-140/HEAD)
