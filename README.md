@@ -1,35 +1,16 @@
-# DH-140
+# DH-140 Final Project
 
-This page documents some of the preliminary ideas and background research conducted for my DH 140 Final Project. 
+### Project Description
 
-### Data and Vizualization of Interest
+The data I will be analyzing in my final project was gathered from the World Happiness Report (by the Gallup World Survey), which seeks to measure and make more concrete what has always been a very subjective and abstract, yet an infinitely integral aspect of human life -- happiness.
 
-Journal: 
-[The Predictive Dynamics of Happiness & Well-Being](https://journals.sagepub.com/doi/full/10.1177/17540739211063851)
+**Data:**
+[World Happiness Reports from 2005-2021]("https://www.kaggle.com/datasets/jahaidulislam/world-happiness-report-2005-2021")
 
-I have always been fascinated with positive psychology, happiness, and well-being, as well as the factors that affect it. In this journal, the authors dive into how data science can be used to predict happiness. 
+Happiness is something that all humans crave and desire. From Aristotle who espoused a eudaimonic and virtue-driven happiness, to Epicurus who advocated for hedonism and embracing feelings of pleasure, philosophers have long discussed and debated what happiness entails, and how we as humans can seek to achieve it. Nonetheless, it remains as enigmatic and relevant as ever, with mental health awareness on the rise and nascent fields like positive psychology dedicated to the study of happiness. In a way, it seems like there has been little to no progress made in the past centuries on how we can go about achieving this ever-elusive goal. Yet, perhaps it was this very sense of abstruseness that has driven my lifelong fascination with happiness, well-being, and the factors that influence it.
+The question then arises -- how can I approach a topic so abstract and nuanced, when it has even stumped humankind for centuries? Well, I believe the answer to that is, data. By looking at happiness through the lens of data, I hope to uncover and analyze patterns in happiness around the world, and hopefully gain new insights into what factors affect happiness.
 
-Data Visualization:
-![World Happiness 2022](https://www.visualcapitalist.com/wp-content/uploads/2022/03/OC_GlobalHappiness_Share.jpg)
-
-The datapoints are really clear and provide an engaging highlight of countries with the highest and lowest happiness rating in each continent. 
-
-### Ideas for data to investigate
-1. 
-- The relationship between religion and happiness.
-- The impact of COVID-19 on mental health.
-
-2. "Seven ways humanists are using computers to understand text." particularly interests me, especially with the recent ChatGPT craze, as it could potentially revolutionize the way humans can interact with computers and AI.
-
-
-3. 
-- [Relationship between religion and happiness](https://www.pewresearch.org/religion/2019/01/31/religions-relationship-to-happiness-civic-engagement-and-health-around-the-world/#:~:text=People%20who%20are%20active%20in,than%20two%20dozen%20other%20countries.)
-- [Impact of COVID-19 on mental health](https://www.who.int/news-room/feature-stories/detail/the-impact-of-covid-19-on-mental-health-cannot-be-made-light-of#:~:text=Plenty%20of%20us%20became%20more,anxiety%20or%20post%2Dtraumatic%20stress.)
-
-### Ideas from curated datasets & project lists
-
-| Dataset | Description | Link | 
-| ------- | ----------- | ---- |
-| COVID-19| Use the Delphi dataset to compare the relationship between COVID infection rates and depression| https://delphi.cmu.edu/covidcast/export/ |
-| US Jail Mortality | Investigate the factors behind varying jail mortality rates across US states | https://www.reuters.com/investigates/special-report/usa-jails-graphic/|
-
+**Research Questions:**
+How do economic factors affect happiness?
+How does one's social environment affect happiness?
+How has global happiness been affected by the COVID-19 pandemic?
