@@ -1,4 +1,4 @@
-Country name,Year,Life Ladder,Log GDP per capita,Social support,Healthy life expectancy at birth,Freedom to make life choices,Generosity,Perceptions of corruption,Positive affect,Negative affect,Confidence in national government
+Country,Year,Happiness Score,Log GDP per capita,Social support,Life expectancy,Freedom,Generosity,Perceptions of corruption,Positive affect,Negative affect,Confidence in national government
 Afghanistan,2008,3.723589897,7.302573681,0.450662315,50.5,0.718114316,0.173169285,0.88168633,0.414297044,0.25819549,0.61207211
 Afghanistan,2009,4.401778221,7.472446442,0.55230844,50.79999924,0.678896368,0.195469126,0.850035429,0.481421441,0.23709242,0.611545205
 Afghanistan,2010,4.75838089,7.579182625,0.539075196,51.09999847,0.60012722,0.125859469,0.706766069,0.516906679,0.275323808,0.299357414
