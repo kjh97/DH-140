@@ -12,7 +12,9 @@ Happiness is something that all humans crave and desire. From Aristotle who espo
 The question then arises -- how can I approach a topic so abstract and nuanced, when it has even stumped humankind for centuries? Well, I believe the answer to that is, data. By looking at happiness through the lens of data, I hope to uncover and analyze patterns in happiness around the world, and hopefully gain new insights into what factors affect happiness.
 
 **Research Questions:**
+
 How do economic factors affect happiness?
+
 How does one's social environment affect happiness?
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kjh97/DH-140/HEAD)
